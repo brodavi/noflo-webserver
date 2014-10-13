@@ -25,7 +25,11 @@
   "dependencies": {
     "noflo": "~0.5.0",
     "connect": "2.6.x",
-    "node-uuid": "1.4.x"
+    "node-uuid": "1.4.x",
+    "noflo-filesystem": "^1.0.6",
+    "noflo-core": "^0.1.11",
+    "noflo-math": "0.0.6",
+    "noflo-nodejs": "0.0.6"
   },
   "devDependencies": {
     "coffeelint": "~0.6.0",
